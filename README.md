@@ -1,4 +1,4 @@
-# PYMEOMEO Obfuscator
+# PYMEOMEO
 
 PYMEOMEO is a Python code obfuscator designed to protect your Python scripts by making them difficult to reverse-engineer. It supports multiple layers of obfuscation and is compatible with Python 3.11, 3.12, and 3.13. The obfuscator uses a combination of compression and encoding techniques to obscure the code, making it challenging for unauthorized users to understand or modify.
 
