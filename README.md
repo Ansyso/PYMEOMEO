@@ -74,4 +74,4 @@ This tool is intended for educational and personal use. The authors are not resp
 
 ---
 
-For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/WGeorgeCode/PYMEOMEO).
+For any issues or feature requests, please open an issue on the [GitHub repository](https://github.com/Ansyso/PYMEOMEO).
