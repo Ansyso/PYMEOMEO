@@ -1,6 +1,6 @@
 # PYMEOMEO
 
-PYMEOMEO is a powerful Python code obfuscator designed to protect your Python scripts by making them difficult to reverse-engineer. It supports multiple layers of obfuscation and is compatible with Python 3.11, 3.12, and 3.13. This version of PYMEOMEO does not use command-line arguments (`args`) and instead relies on interactive input for ease of use.
+PYMEOMEO is a powerful Python code obfuscator designed to protect your Python scripts by making them difficult to reverse-engineer. It supports multiple layers of obfuscation and is compatible with Python 3.11, 3.12, and 3.13.
 
 ---
 
@@ -35,7 +35,7 @@ PYMEOMEO is a powerful Python code obfuscator designed to protect your Python sc
    Run the following command to install the required library:
 
    ```bash
-   pip install pystyle
+   pip3 install pystyle
    ```
 
 2. **Download the Obfuscator**:
